@@ -4,7 +4,7 @@
 - 👀 I’m interested in ...
 - 🌱 Currently learning **Kubernetes, Flutter, Bloackchain**
 - 📂 All of my projects are available at [my projects](https://www.tmakuyana.com/projects)
-- 📪 How to reach me **tafmakuyana@gmail.com**
+- 📪 How to reach me **tgmakuyana@hotmail.com**
 - Know about my experiences [my resume]()
 
 <h3>Connect with me</h3>
