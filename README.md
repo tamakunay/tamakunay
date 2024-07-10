@@ -2,7 +2,7 @@
 <h5>A passionate Software Developer from Zimbabwe</h5>
 
 - 👀 I’m interested in ...
-- 🌱 Currently learning **Kubernetes, Flutter, Bloackchain**
+- 🌱 Currently learning **Blockchain, Spring Boot**
 - 📂 All of my projects are available at [my projects](https://www.tmakuyana.com/projects)
 - 📪 How to reach me **tgmakuyana@hotmail.com**
 - Know about my experiences [my resume]()
