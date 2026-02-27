@@ -55,5 +55,5 @@ I’m a product-minded engineer who loves bridging the gap between clean, intuit
 ---
 
 ### 📊 Stats
-![Tafadzwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmakunay&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmakunay&layout=compact&theme=radical)
+![Tafadzwa's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=tamakunay&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tamakunay&layout=compact&theme=radical)
